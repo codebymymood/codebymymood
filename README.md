@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @codebymymood
+- 👋 Hi, I’m @codebymymood. I work as a Salesforce developer☁️.
 - 👀 I’m interested in baking, tech and CrossFit!
-- 🌱 Ongoing learning of JS, Node, Express, React, CSS, HTML (MERN)
-- 💞️ Recent graduate from Ironhack's web dev bootcamp and developed some cool projects. You can check them out in the pinned section.
+- 🌱 Continuous learner of JS, Node, Express, React, CSS, HTML (MERN)
+- 💞️ Graduated from Ironhack's web dev bootcamp and developed some cool projects. You can check them out in the pinned section.
 - 📫 How to reach me -> https://www.linkedin.com/in/joana-parentedacosta/
 
 <!---
